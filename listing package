@@ -1,0 +1,17 @@
+
+
+npm list
+npm ls
+
+npm list --depth=0
+npm list --prod
+
+npm list --prod --depth=0
+
+npm list --dev
+
+
+npm list --global
+
+
+npm list --depth=0 --json
