@@ -1,0 +1,22 @@
+Install Modules with npm install
+npm install <module>
+npm install express
+
+
+npm install
+
+
+npm install <module> --save-dev
+
+UNINSTALL
+
+npm uninstall <module> --save
+npm uninstall <module> --save-dev
+
+
+INSTALL UNINSTALL globally
+
+npm install <module> -g
+npm uninstall <module> -g
+npm remove <module> -g
+npm rm <module> -g
